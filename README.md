@@ -10,5 +10,5 @@ LED data sheet
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ5MTE2MjJdfQ==
+eyJoaXN0b3J5IjpbNDk5MTQwNjk5LC0xOTU0OTExNjIyXX0=
 -->
