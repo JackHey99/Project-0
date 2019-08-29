@@ -9,6 +9,8 @@ If - Forward Current of the LED. This is the current required by the LED for ope
 
 Using the following equation a suitable series resistor value can be found.
 R = (Vs - Vf) / If
+Substituting the values in for the green LED
+R = (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2MDQ2MDY5XX0=
+eyJoaXN0b3J5IjpbLTE4MjI5ODc3MTMsNjg2MDQ2MDY5XX0=
 -->
