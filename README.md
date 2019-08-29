@@ -12,5 +12,5 @@ R = (Vs - Vf) / If
 Substituting the values in for the green LED
 R = (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjI5ODc3MTMsNjg2MDQ2MDY5XX0=
+eyJoaXN0b3J5IjpbLTE4MjI5ODc3MTNdfQ==
 -->
