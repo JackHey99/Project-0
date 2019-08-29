@@ -2,7 +2,7 @@
 Jack Heyward ID#2174132
 
 ## Introduction
-The aim of this project is to design a system that can measure a 
+The aim of this project is to design a system that can measure a person's subjective flicker fusion threshold. The 
 
 
 ## Method
@@ -25,5 +25,6 @@ R = (3.3 - 2.4) / 20mA = 24 ohms
 
 Because we did not have any 24 ohm resistors available the closest value resistor was used which was 130 ohms.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDI5NDk2OSwtMTgyMjk4NzcxM119
+eyJoaXN0b3J5IjpbLTE4NjA0Njg1MDAsLTE4MjI5ODc3MTNdfQ
+==
 -->
