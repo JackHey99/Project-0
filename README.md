@@ -7,7 +7,8 @@ Vs - Supply Voltage
 Vf - Forward voltage of the LED. This is the voltage required to turn on the LED.  
 If - Forward Current of the LED. This is the current required by the LED for operation.
 
-Using the following equation a suitable series resistor value can be found
+Using the following equation a suitable series resistor value can be found.
+R = (Vs - Vf) / If
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU5NTE4OTMsLTUyMDUzNDc5N119
+eyJoaXN0b3J5IjpbNjg2MDQ2MDY5XX0=
 -->
