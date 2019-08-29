@@ -25,6 +25,5 @@ R = (3.3 - 2.4) / 20mA = 24 ohms
 
 Because we did not have any 24 ohm resistors available the closest value resistor was used which was 130 ohms.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzY2OTEwMiw1NzEzMTc5NjksLTE4Mj
-I5ODc3MTNdfQ==
+eyJoaXN0b3J5IjpbMTQ1NzY2OTEwMl19
 -->
