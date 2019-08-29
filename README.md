@@ -7,10 +7,6 @@ The aim of this project is to design an embedded system that can measure a perso
 
 ## Method
 
-## Results
-
-
-
 Green LED datasheet
 ![Green LED datasheet ](https://user-images.githubusercontent.com/53545740/63909001-4dfe3300-ca75-11e9-9df3-d3eb50594236.JPG)
 
@@ -24,6 +20,11 @@ Substituting the values in for the green LED
 R = (3.3 - 2.4) / 20mA = 24 ohms 
 
 Because we did not have any 24 ohm resistors available the closest value resistor was used which was 130 ohms.
+
+
+
+## Results
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzY2OTEwMl19
+eyJoaXN0b3J5IjpbMjA0NTI1Njk5MiwxNDU3NjY5MTAyXX0=
 -->
