@@ -11,7 +11,7 @@ schematic diagram of circuit
 
 
 
-A current limiting series resistor needs to be connected to the output pin with the LED
+A current limiting series resistor needs to be connected to the output pin with the LED.
 
 Green LED datasheet
 ![Green LED datasheet ](https://user-images.githubusercontent.com/53545740/63909001-4dfe3300-ca75-11e9-9df3-d3eb50594236.JPG)
@@ -35,6 +35,6 @@ Pullup / Pulldown
 ## Results
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5MzE0NjIzLDg4ODA4OTAyOCwxNDU3Nj
-Y5MTAyXX0=
+eyJoaXN0b3J5IjpbLTM2NDU0ODQ3Nyw4ODgwODkwMjgsMTQ1Nz
+Y2OTEwMl19
 -->
