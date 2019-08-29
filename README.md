@@ -7,6 +7,8 @@ The aim of this project is to design an embedded system that can measure a perso
 
 ## Method
 
+
+
 Green LED datasheet
 ![Green LED datasheet ](https://user-images.githubusercontent.com/53545740/63909001-4dfe3300-ca75-11e9-9df3-d3eb50594236.JPG)
 
@@ -26,5 +28,5 @@ Because we did not have any 24 ohm resistors available the closest value resisto
 ## Results
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTI1Njk5MiwxNDU3NjY5MTAyXX0=
+eyJoaXN0b3J5IjpbODg4MDg5MDI4LDE0NTc2NjkxMDJdfQ==
 -->
