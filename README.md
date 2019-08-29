@@ -36,6 +36,5 @@ Pullup / Pulldown
 ## Results
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjkyMzk1NCw4ODgwODkwMjgsMTQ1Nz
-Y2OTEwMl19
+eyJoaXN0b3J5IjpbLTgxNjkyMzk1NF19
 -->
