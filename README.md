@@ -2,7 +2,7 @@
 Jack Heyward ID#2174132
 
 ## Introduction
-The aim of this project is to design an embedded system that can measure a person's subjective flicker fusion. The system must not contain any delay() functions, the button must be de-bounced and the flicker frequency must triggered by an interrupt and serially printed to the monitor. 
+The aim of this project is to design an embedded system that can measure a person's subjective flicker fusion. The system must not contain any delay() functions, the button nbe de-bounced and the button must trigger an interrupt that serially prints the flick frequancy to the monitor. 
 
 
 ## Method
@@ -25,5 +25,6 @@ R = (3.3 - 2.4) / 20mA = 24 ohms
 
 Because we did not have any 24 ohm resistors available the closest value resistor was used which was 130 ohms.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMzE3OTY5LC0xODIyOTg3NzEzXX0=
+eyJoaXN0b3J5IjpbMTQ4Mzc4MDI0MCw1NzEzMTc5NjksLTE4Mj
+I5ODc3MTNdfQ==
 -->
