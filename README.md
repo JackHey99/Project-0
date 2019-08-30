@@ -33,11 +33,11 @@ Because we did not have any 24 ohm resistors available the closest value resisto
 Pullup / Pulldown
 
 Button denounce 
-The microcontrollers 
+The microcontrollers default pin mode is the input state. When the controller is in the input state it has high impedance which means  
 
 ## Results
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTUzMTk2MCw2NTA3NTg1ODYsLTgxNj
-kyMzk1NF19
+eyJoaXN0b3J5IjpbLTE3NjA4NjUwMTUsNjUwNzU4NTg2LC04MT
+Y5MjM5NTRdfQ==
 -->
