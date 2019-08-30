@@ -33,8 +33,11 @@ Because we did not have any 24 ohm resistors available the closest value resisto
 Pullup / Pulldown
 
 Button denounce 
+The microcontrollers 
+
 ## Results
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwNzU4NTg2LC04MTY5MjM5NTRdfQ==
+eyJoaXN0b3J5IjpbLTUyMTUzMTk2MCw2NTA3NTg1ODYsLTgxNj
+kyMzk1NF19
 -->
