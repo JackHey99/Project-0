@@ -32,9 +32,9 @@ Because we did not have any 24 ohm resistors available the closest value resisto
 
 Pullup / Pulldown
 
-
+Button denounce 
 ## Results
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDQzNTIxNSwtODE2OTIzOTU0XX0=
+eyJoaXN0b3J5IjpbNjUwNzU4NTg2LC04MTY5MjM5NTRdfQ==
 -->
