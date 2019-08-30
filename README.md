@@ -14,7 +14,7 @@ schematic diagram of circuit
 A current limiting series resistor needs to be connected to the output pin with the LED. The current flowing in an LED is an exponential function of voltage across the LED. If a series resistor is not added the current can overload the LED and blow it. The following calculation is done to find the correct series resistor or a particular LED color and type.
 
 
-![Green LED datasheet ](https://user-images.githubusercontent.com/53545740/63909001-4dfe3300-ca75-11e9-9df3-d3eb50594236.JPG)Figure 1. Green LED datasheet
+![Green LED datasheet ](https://user-images.githubusercontent.com/53545740/63909001-4dfe3300-ca75-11e9-9df3-d3eb50594236.JPG)Figure 2. Green LED datasheet
 
 
 Vs - Supply Voltage
@@ -36,5 +36,5 @@ Pullup / Pulldown
 ## Results
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjkyMzk1NF19
+eyJoaXN0b3J5IjpbMTkxNDQzNTIxNSwtODE2OTIzOTU0XX0=
 -->
