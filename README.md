@@ -94,7 +94,7 @@ Final version of the code can be found at the following file path: src/main.cpp
 Some possible future improvements for this project could be to create a graphical user interface, GUI that returns the flicker threshold in a more user friendly and simpler form than the serial monitor command window. If a GUI is created the potentiometer could be removed and replaced with a flick control button within the GUI. This would give the user greater control in the frequency adjustment as the increments can be much finer with an increased resolution. The increased control and resolution will allow the user to adjust the frequency to their exact flick threshold giving a more accurate result. 
 
 ## Conclusion
-The aim of this project was to design an embedded system that can measure a person's subjective flicker fusion. The final program and circuit worked as desired and returens  
+The aim of this project was to design an embedded system that can measure a person's subjective flicker fusion. The final program and circuit worked as desired and returns the flicker frequency to a tested accuracy of two decimal places. All specifications and constraints
 
 ## References
 
@@ -103,5 +103,5 @@ Electronic Tutorials. (2018, April 25). Input Interfacing Circuits Connect to th
 
 Vishay. (2019, January 1). High Efficiency LED. Retrieved from https://www.vishay.com/docs/83009/tlhg4900.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzE1Njk3MCwtMTI2NTE0NzU0N119
+eyJoaXN0b3J5IjpbMTA0MjIwNDUwMCwtMTI2NTE0NzU0N119
 -->
