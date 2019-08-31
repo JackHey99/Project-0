@@ -56,7 +56,7 @@ File Path: Report_Photos/Button Bounce.JPG
 code description
 
 
-Figure 5 and 6 below is the comparison between the reading on the oscilloscope and the values printed on the serial monitor. The two values agreed with each other so it can be confirmed that the system is working correctly and printing accurate data. The Oscilloscope reads to two decimal places so the system can be advertised as  
+Figure 5 and 6 below is the comparison between the reading on the oscilloscope and the values printed on the serial monitor. The two values agreed with each other so it can be confirmed that the system is working correctly and printing accurate data. The Oscilloscope reads to two decimal places so the system can be advertised as accurate to  
 
 
 
@@ -66,6 +66,6 @@ https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html
 
 https://www.vishay.com/docs/83009/tlhg4900.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2ODI3Njk4LDg2NTg0MzU4LC0xNjMyNz
-g3MzY3LC05ODUxNDQwNTVdfQ==
+eyJoaXN0b3J5IjpbLTU3ODk3NTk0Myw4NjU4NDM1OCwtMTYzMj
+c4NzM2NywtOTg1MTQ0MDU1XX0=
 -->
