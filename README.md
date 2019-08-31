@@ -53,7 +53,7 @@ File Path: Report_Photos/Button Bounce.JPG
 
 
 ## Results
-Figure 5 and 6 below are the 
+Figure 5 and 6 below is the comparison between the reading on the oscilloscope and the values printed on the serial monitor. 
 
 
 
@@ -63,6 +63,6 @@ https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html
 
 https://www.vishay.com/docs/83009/tlhg4900.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyNzY2NjksLTE2MzI3ODczNjcsLTk4NT
+eyJoaXN0b3J5IjpbODY1ODQzNTgsLTE2MzI3ODczNjcsLTk4NT
 E0NDA1NV19
 -->
