@@ -1,5 +1,9 @@
 # Project 0
 Jack Heyward ID#2174132
+Date: 01/09/2019
+MG7013 EMBEDDED SYSTEMS
+Tutor: Frank Beinersdorf
+
 
 ## Introduction
 The aim of this project is to design an embedded system that can measure a person's subjective flicker fusion. The system must not contain any delay() functions, the button needs to be de-bounced and  must trigger an interrupt that serially prints the flick frequency to the monitor. The results that are serially printed on the monitor must be verified by means of an output signal measurement using an oscilloscope.
@@ -59,5 +63,5 @@ https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html
 
 https://www.vishay.com/docs/83009/tlhg4900.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTE0NDA1NV19
+eyJoaXN0b3J5IjpbLTE2MzI3ODczNjcsLTk4NTE0NDA1NV19
 -->
