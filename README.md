@@ -63,7 +63,7 @@ File Path:
 
 ![LED pin oscilloscope reading](https://user-images.githubusercontent.com/53545740/64060157-116d3b80-cc1d-11e9-8e91-04bd63151d01.JPG)
 Figure 6. Oscilloscope reading of the output. Measured frequency = 45.45Hz.
-
+File Path:
 
 
 
@@ -71,5 +71,5 @@ https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html
 
 https://www.vishay.com/docs/83009/tlhg4900.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDU3NDkwMywtMzg5MTI5ODI1XX0=
+eyJoaXN0b3J5IjpbNzA1NDUxMDE2LC0zODkxMjk4MjVdfQ==
 -->
