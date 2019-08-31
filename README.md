@@ -42,7 +42,13 @@ When using mechanical buttons as an input for a microcontroller a process called
 
 ## Results
 
+
+
+
+
+
+https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU3MzYwMzcsLTI2NTcxODU5LC0xNj
+eyJoaXN0b3J5IjpbLTE0ODQ0NzU5NzMsLTI2NTcxODU5LC0xNj
 I1NjA0OTIxLDEzNjk5MDQwNiwtMzQ1NDY2MjU5XX0=
 -->
