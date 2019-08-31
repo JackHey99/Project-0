@@ -10,14 +10,14 @@ The aim of this project is to design an embedded system that can measure a perso
 Figure 1 below shows the schematic diagram of circuit created on EasyEDA. 
 ![Schematic for project 0](https://user-images.githubusercontent.com/53545740/64058023-ff79a180-cbf8-11e9-8e9a-4c43ab1972b7.JPG)
 Figure 1. Circuit schematic.
-Path: Report_Photos/Schematic for project 0.JPG
+File Path: Report_Photos/Schematic for project 0.JPG
 
 
 A current limiting series resistor needs to be connected to the output pin with the LED. The current flowing in an LED is an exponential function of voltage across the LED. If a series resistor is not added the current can overload the LED and blow it. The following calculation is done to find the correct series resistor or a particular LED color and type.
 
 
 ![Green LED datasheet ](https://user-images.githubusercontent.com/53545740/63909001-4dfe3300-ca75-11e9-9df3-d3eb50594236.JPG)Figure 2. Green LED datasheet. 
-Path: Report_Photos/Green LED data.JPG
+File Path: Report_Photos/Green LED data.JPG
 
 Vs - Supply Voltage
 Vf - Forward voltage of the LED. This is the voltage required to turn on the LED.  
@@ -36,14 +36,14 @@ The microcontrollers default pin mode is the input state. When the controller is
 ![Pull Up resistor](https://user-images.githubusercontent.com/53545740/64058032-13bd9e80-cbf9-11e9-9c66-45fe7edba810.JPG)
 Figure 3. Pull up resistor configuration and transmission signal.  
 From (Electronics tutorials)
-Path:
+File Path: Report_Photos/Pull Up resistor.JPG
 
 When using mechanical buttons as an input for a microcontroller a process called de-bouncing needs to be performed. When a mechanical button is pushed there is always a 'bounce'. This is caused from the spring inside the button taking time to settle. The typical reading for a mechanical button being pushed can be seen in figure 4. We can not remove the bouncing effect however, because we are using a microcontroller we can add additional code to the program to ignore the bounce. This is done by creating an 'ignore time' which tells the program to ignore any input changes for a set time after the initial change. The ignore time is different for each button however, for the button used in this project an ignore time of 80-120 milliseconds was used.
 
 ![Button Bounce](https://user-images.githubusercontent.com/53545740/64058038-246e1480-cbf9-11e9-8b42-ee225b6b79e3.JPG)
 Figure 4. Button de-bounce waveform.
 From (Electronics tutorials)
-
+File Path: Report_Photos/Button Bounce.JPG
 
 
 
@@ -59,5 +59,5 @@ https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html
 
 https://www.vishay.com/docs/83009/tlhg4900.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2OTg1MzQ5LDIwNjI2OTcyMDhdfQ==
+eyJoaXN0b3J5IjpbLTk4NTE0NDA1NV19
 -->
