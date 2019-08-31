@@ -39,7 +39,7 @@ The microcontrollers default pin mode is the input state. When the controller is
 
 ![Pull Up resistor](https://user-images.githubusercontent.com/53545740/64058032-13bd9e80-cbf9-11e9-9c66-45fe7edba810.JPG)
 Figure 3. Pull up resistor configuration and transmission signal.  
-From (Electronics tutorials)
+From (Electronics tutorials, 2018)
 File Path: Report_Photos/Pull Up resistor.JPG
 
 When using mechanical buttons as an input for a microcontroller a process called de-bouncing needs to be performed. When a mechanical button is pushed there is always a 'bounce'. This is caused from the spring inside the button taking time to settle. The typical reading for a mechanical button being pushed can be seen in figure 4. We can not remove the bouncing effect however, because we are using a microcontroller we can add additional code to the program to ignore the bounce. This is done by creating an 'ignore time' which tells the program to ignore any input changes for a set time after the initial change. The ignore time is different for each button however, for the button used in this project an ignore time of 80-120 milliseconds was used.
@@ -74,9 +74,11 @@ Final version of the code can be found at the following file path: src/main.cpp
 
 ## References
 
-https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html
+
 
 https://www.vishay.com/docs/83009/tlhg4900.pdf
+
+Electronic Tutorials. (2018, April 25). Input Interfacing Circuits Connect to the Real World. Retrieved from https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTY4MTEyOSwxNjAyNjU1MjIzXX0=
+eyJoaXN0b3J5IjpbMjA5MzY1Nzk0NiwxNjAyNjU1MjIzXX0=
 -->
