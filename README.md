@@ -75,10 +75,10 @@ Final version of the code can be found at the following file path: src/main.cpp
 
 ## References
 
-Vishay. (2019, January 1). High Efficiency LED. Retrieved from https://www.vishay.com/docs/83009/tlhg4900.pdf
-
 
 Electronic Tutorials. (2018, April 25). Input Interfacing Circuits Connect to the Real World. Retrieved from https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html
+
+Vishay. (2019, January 1). High Efficiency LED. Retrieved from https://www.vishay.com/docs/83009/tlhg4900.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzM4MjU4MSwxNjAyNjU1MjIzXX0=
+eyJoaXN0b3J5IjpbLTIwMzU1Njc2MDNdfQ==
 -->
