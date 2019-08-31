@@ -35,11 +35,11 @@ Pullup / Pulldown
 Button denounce 
 
 
-The microcontrollers default pin mode is the input state. When the controller is in the input state it has high impedance which means the circuit allows a relatively small amount of current through for the applied voltage. When a button is connected from an input pin to ground a series current limiting resistor does not need to be added because of the high impedance. 
+The microcontrollers default pin mode is the input state. When the controller is in the input state it has high impedance which means the circuit allows a relatively small amount of current through for the applied voltage. When a button is connected from an input pin to ground, a series current limiting resistor does not need to be added because of the high impedance limiting the current. However a pullup 
 
 ## Results
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTcyNjI2NSw2NTA3NTg1ODYsLTgxNj
-kyMzk1NF19
+eyJoaXN0b3J5IjpbMzE3MTE3MjMxLDExNDU3MjYyNjUsNjUwNz
+U4NTg2LC04MTY5MjM5NTRdfQ==
 -->
