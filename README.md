@@ -7,12 +7,10 @@ The aim of this project is to design an embedded system that can measure a perso
 
 ## Method
 
-Figure 1 below shows the schematic diagram of circuit. 
+Figure 1 below shows the schematic diagram of circuit created on EasyEDA. 
 ![Schematic for project 0](https://user-images.githubusercontent.com/53545740/64058023-ff79a180-cbf8-11e9-8e9a-4c43ab1972b7.JPG)
-
-
-
-
+Figure 1. Circuit schematic.
+strikethrough text
 
 A current limiting series resistor needs to be connected to the output pin with the LED. The current flowing in an LED is an exponential function of voltage across the LED. If a series resistor is not added the current can overload the LED and blow it. The following calculation is done to find the correct series resistor or a particular LED color and type.
 
@@ -56,5 +54,5 @@ When using mechanical buttons as an input for a microcontroller a process called
 
 https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjY5NzIwOF19
+eyJoaXN0b3J5IjpbLTkyNjY4OTE3OCwyMDYyNjk3MjA4XX0=
 -->
