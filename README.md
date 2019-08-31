@@ -46,7 +46,7 @@ When using mechanical buttons as an input for a microcontroller a process called
 
 ![Button Bounce](https://user-images.githubusercontent.com/53545740/64058038-246e1480-cbf9-11e9-8b42-ee225b6b79e3.JPG)
 Figure 4. Button de-bounce waveform.
-From (Electronics tutorials)
+From (Electronics tutorials,2018)
 File Path: Report_Photos/Button Bounce.JPG
 
 
@@ -78,5 +78,5 @@ https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html
 
 https://www.vishay.com/docs/83009/tlhg4900.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyNTgwNDgwLDE2MDI2NTUyMjNdfQ==
+eyJoaXN0b3J5IjpbMTY0NTY4MTEyOSwxNjAyNjU1MjIzXX0=
 -->
