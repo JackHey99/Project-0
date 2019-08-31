@@ -72,7 +72,7 @@ File Path: Report_Photos/LED pin oscilloscope reading.JPG
 Final version of the code can be found at the following file path: src/main.cpp
 
 **Improvements** 
-
+Some possible future improvements for this project could be to create a graphical uGUI 
 
 ## Conclusion
 
@@ -84,5 +84,5 @@ Electronic Tutorials. (2018, April 25). Input Interfacing Circuits Connect to th
 
 Vishay. (2019, January 1). High Efficiency LED. Retrieved from https://www.vishay.com/docs/83009/tlhg4900.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTM0Nzc4MywtMjAzNTU2NzYwM119
+eyJoaXN0b3J5IjpbLTIyMjE2MzI0NywtMjAzNTU2NzYwM119
 -->
