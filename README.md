@@ -63,10 +63,14 @@ Main loop
  - Read the potentiometer value.
  - Map the potentiometer value to reduce the range.
  - Set the mapped potentiometer value to the PWM half wave period.
- - Turn the LED on for the set period
- - Turn the LED on for the set period
+ - Turn the LED **on** for the set period.
+ - Turn the LED **off** for the set period.
  - **If** button has been pressed print the current frequency on the serial monitor. 
  - **Else** repeat the loop.
+
+Button pressed ISR
+
+ - If the button is pressed at any time exit loop above and rem
 
 **Testing**
 Figure 5 and 6 below is the comparison between the reading on the oscilloscope and the values printed on the serial monitor. The two values agreed with each other so it can be confirmed that the system is working correctly and printing accurate data. The Oscilloscope reads to two decimal places so the system can be advertised as accurate to 0.01Hz. If the accuracy needs to be greater the system can return results to a higher degree of accuracy however, they would need to be compared with the readings from an oscilloscope with a higher accuracy to ensure the results are correct.
@@ -96,5 +100,5 @@ Electronic Tutorials. (2018, April 25). Input Interfacing Circuits Connect to th
 
 Vishay. (2019, January 1). High Efficiency LED. Retrieved from https://www.vishay.com/docs/83009/tlhg4900.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwMTcxMzgwLC00NDQ4MjQ3NF19
+eyJoaXN0b3J5IjpbLTE4MzgxNjAyMDMsLTQ0NDgyNDc0XX0=
 -->
