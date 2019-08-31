@@ -21,6 +21,7 @@ A current limiting series resistor needs to be connected to the output pin with 
 
 
 ![Green LED datasheet ](https://user-images.githubusercontent.com/53545740/63909001-4dfe3300-ca75-11e9-9df3-d3eb50594236.JPG)Figure 2. Green LED datasheet. 
+From (Vishay, 2019)
 File Path: Report_Photos/Green LED data.JPG
 
 Vs - Supply Voltage
@@ -74,11 +75,10 @@ Final version of the code can be found at the following file path: src/main.cpp
 
 ## References
 
+Vishay. (2019, January 1). High Efficiency LED. Retrieved from https://www.vishay.com/docs/83009/tlhg4900.pdf
 
-
-https://www.vishay.com/docs/83009/tlhg4900.pdf
 
 Electronic Tutorials. (2018, April 25). Input Interfacing Circuits Connect to the Real World. Retrieved from https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzY1Nzk0NiwxNjAyNjU1MjIzXX0=
+eyJoaXN0b3J5IjpbMTA0NzM4MjU4MSwxNjAyNjU1MjIzXX0=
 -->
