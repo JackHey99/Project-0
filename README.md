@@ -35,11 +35,11 @@ Pullup / Pulldown
 Button denounce 
 
 
-The microcontrollers default pin mode is the input state. When the controller is in the input state it has high impedance which means the circuit allows a relatively small amount of current through for the applied voltage. When a button is connected from an input pin to ground, a series current limiting resistor does not need to be added because of the high impedance limiting the current. However a pullup resistor does need to be added to the line as seen in figure 1. Without a pullup resistor the input line acts as an antenna which picks up the surrounding interference. The interference will cause the pin to float and appear noisy and can cause undesired readings on the microcontroller. To stop the floating a pullup re
+The microcontrollers default pin mode is the input state. When the controller is in the input state it has high impedance which means the circuit allows a relatively small amount of current through for the applied voltage. When a button is connected from an input pin to ground, a series current limiting resistor does not need to be added because of the high impedance limiting the current. However a pullup resistor does need to be added to the line as seen in figure 1. Without a pullup resistor the input line acts as an antenna which picks up the surrounding interference. The interference will cause the pin to float and appear noisy and can cause undesired readings on the microcontroller. To stop the floating a pullup resistor is connected 
 
 ## Results
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTcwNTA4NzQsMTE0NTcyNjI2NSw2NT
-A3NTg1ODYsLTgxNjkyMzk1NF19
+eyJoaXN0b3J5IjpbNTM2OTExODA3LDExNDU3MjYyNjUsNjUwNz
+U4NTg2LC04MTY5MjM5NTRdfQ==
 -->
