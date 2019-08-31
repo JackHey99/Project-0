@@ -34,12 +34,16 @@ The microcontrollers default pin mode is the input state. When the controller is
 
 de-bounce
 
+When using mechanical buttons as an input for a 
+
+
+
 
 
 
 ## Results
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTcxODU5LC0xNjI1NjA0OTIxLDEzNj
-k5MDQwNiwtMzQ1NDY2MjU5XX0=
+eyJoaXN0b3J5IjpbNDY4MjA2ODU0LC0yNjU3MTg1OSwtMTYyNT
+YwNDkyMSwxMzY5OTA0MDYsLTM0NTQ2NjI1OV19
 -->
