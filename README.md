@@ -40,6 +40,5 @@ The microcontrollers default pin mode is the input state. When the controller is
 ## Results
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTQ2NjI1OSwxMTQ1NzI2MjY1LDY1MD
-c1ODU4NiwtODE2OTIzOTU0XX0=
+eyJoaXN0b3J5IjpbLTM0NTQ2NjI1OV19
 -->
