@@ -8,6 +8,7 @@ The aim of this project is to design an embedded system that can measure a perso
 ## Method
 
 Figure 1 below shows the schematic diagram of circuit. 
+![Schematic for project 0](https://user-images.githubusercontent.com/53545740/64058023-ff79a180-cbf8-11e9-8e9a-4c43ab1972b7.JPG)
 
 
 
@@ -33,8 +34,13 @@ Because we did not have any 24 ohm resistors available the closest value resisto
 
 The microcontrollers default pin mode is the input state. When the controller is in the input state it has high impedance which means the circuit allows a relatively small amount of current through for the applied voltage. When a button is connected from an input pin to ground, a series current limiting resistor does not need to be added because of the high impedance limiting the current. However a pullup resistor does need to be added to the line as seen in figure 1. Without a pullup resistor the input line acts as an antenna which picks up the surrounding interference. The interference will cause the pin to float and appear noisy and can cause undesired readings on the microcontroller. To stop the floating a pullup resistor typically between 1K-10K ohms is connected from the input line to the 3.3V pin on the controller (see figure 3). This causes the input line to have a constant 3.3V along it while the button is not pushed which is read as logic 1 by the microcontroller. When the button is pushed the current is sinking through the connection to ground and the voltage drops to 0V which is read as a logic 0 by the microcontroller. 
 
+![Pull Up resistor](https://user-images.githubusercontent.com/53545740/64058032-13bd9e80-cbf9-11e9-9c66-45fe7edba810.JPG)
+
+
 
 When using mechanical buttons as an input for a microcontroller a process called de-bouncing needs to be performed. When a mechanical button is pushed there is always a 'bounce'. This is caused from the spring inside the button taking time to settle. The typical reading for a mechanical button being pushed can be seen in figure 4. We can not remove the bouncing effect however, because we are using a microcontroller we can add additional code to the program to ignore the bounce. This is done by creating an 'ignore time' which tells the program to ignore any input changes for a set time after the initial change. The ignore time is different for each button however, for the button used in this project an ignore time of 80-120 milliseconds was used.
+
+
 
 
 
@@ -49,5 +55,5 @@ When using mechanical buttons as an input for a microcontroller a process called
 
 https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjUwNzE3MF19
+eyJoaXN0b3J5IjpbLTc1NjU0MTE5NywtNTEyNTA3MTcwXX0=
 -->
