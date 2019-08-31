@@ -56,6 +56,8 @@ File Path: Report_Photos/Button Bounce.JPG
 ## Results
 **Pseudo Code**
 
+The following is the Pseudo code used
+
  - Setup and Initialize 
 
 Main loop
@@ -101,5 +103,5 @@ Electronic Tutorials. (2018, April 25). Input Interfacing Circuits Connect to th
 
 Vishay. (2019, January 1). High Efficiency LED. Retrieved from https://www.vishay.com/docs/83009/tlhg4900.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4NTE5ODAzXX0=
+eyJoaXN0b3J5IjpbNTcwNjEzNDI4LDkyODUxOTgwM119
 -->
