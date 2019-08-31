@@ -57,8 +57,10 @@ code description
 
 
 Figure 5 and 6 below is the comparison between the reading on the oscilloscope and the values printed on the serial monitor. The two values agreed with each other so it can be confirmed that the system is working correctly and printing accurate data. The Oscilloscope reads to two decimal places so the system can be advertised as accurate to 0.01Hz. If the accuracy needs to be greater the system can return results to a higher degree of accuracy however, they would need to be compared with the readings from an oscilloscope with a higher accuracy to ensure the results are correct.
+![Serial monitor display](https://user-images.githubusercontent.com/53545740/64060154-06b2a680-cc1d-11e9-9d1b-1572b8a44b85.JPG)
 
 
+![LED pin oscilloscope reading](https://user-images.githubusercontent.com/53545740/64060157-116d3b80-cc1d-11e9-8e91-04bd63151d01.JPG)
 
 
 
@@ -67,6 +69,5 @@ https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html
 
 https://www.vishay.com/docs/83009/tlhg4900.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTcxMjU0NCw4NjU4NDM1OCwtMTYzMj
-c4NzM2NywtOTg1MTQ0MDU1XX0=
+eyJoaXN0b3J5IjpbLTM4OTEyOTgyNV19
 -->
