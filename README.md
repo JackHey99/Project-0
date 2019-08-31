@@ -54,9 +54,9 @@ File Path: Report_Photos/Button Bounce.JPG
 
 
 ## Results
-**code description**
+**Code description**
 
-
+**Testing**
 Figure 5 and 6 below is the comparison between the reading on the oscilloscope and the values printed on the serial monitor. The two values agreed with each other so it can be confirmed that the system is working correctly and printing accurate data. The Oscilloscope reads to two decimal places so the system can be advertised as accurate to 0.01Hz. If the accuracy needs to be greater the system can return results to a higher degree of accuracy however, they would need to be compared with the readings from an oscilloscope with a higher accuracy to ensure the results are correct.
 ![Serial monitor display](https://user-images.githubusercontent.com/53545740/64060154-06b2a680-cc1d-11e9-9d1b-1572b8a44b85.JPG)
 Figure 5. Serial monitor display reading the threshold frequency and PWM wave period.
@@ -71,7 +71,7 @@ File Path: Report_Photos/LED pin oscilloscope reading.JPG
 
 Final version of the code can be found at the following file path: src/main.cpp
 
-**Improvements** 
+**Future Improvements** 
 Some possible future improvements for this project could be to create a graphical user interface, GUI that returns the flicker threshold in a more user friendly and simpler form than the serial monitor command window. If a GUI is created the potentiometer could be removed and replaced with a flick control button within the GUI. This would give the user greater control in the frequency adjustment as the increments can be much finer with an increased resolution. The increased control and resolution will allow the user to adjust the frequency to their exact flick threshold giving a more accurate result. 
 
 ## Conclusion
@@ -84,5 +84,5 @@ Electronic Tutorials. (2018, April 25). Input Interfacing Circuits Connect to th
 
 Vishay. (2019, January 1). High Efficiency LED. Retrieved from https://www.vishay.com/docs/83009/tlhg4900.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwNTA2ODExLC0yMDM1NTY3NjAzXX0=
+eyJoaXN0b3J5IjpbLTU1Nzc0ODEzOCwtMjAzNTU2NzYwM119
 -->
