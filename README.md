@@ -34,7 +34,7 @@ The microcontrollers default pin mode is the input state. When the controller is
 
 de-bounce
 
-When using mechanical buttons as an input for a microcontroller a process called de-bouncing needs to be performed. When a mechanical button is pushed there is always a 'bounce'. This is caused from the spring inside the button taking time to settle. The typical reading for a mechanical button being pushed 
+When using mechanical buttons as an input for a microcontroller a process called de-bouncing needs to be performed. When a mechanical button is pushed there is always a 'bounce'. This is caused from the spring inside the button taking time to settle. The typical reading for a mechanical button being pushed can be seen in figure 4. We can not remove the bouncing effect however, because we are using a microcontroller we can add additional code to the program to ignore the bounce.  
 
 
 
@@ -44,6 +44,6 @@ When using mechanical buttons as an input for a microcontroller a process called
 ## Results
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTI1OTYzLC0yNjU3MTg1OSwtMTYyNT
-YwNDkyMSwxMzY5OTA0MDYsLTM0NTQ2NjI1OV19
+eyJoaXN0b3J5IjpbLTE5OTkxODAyNjYsLTI2NTcxODU5LC0xNj
+I1NjA0OTIxLDEzNjk5MDQwNiwtMzQ1NDY2MjU5XX0=
 -->
