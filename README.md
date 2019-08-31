@@ -72,7 +72,7 @@ File Path: Report_Photos/LED pin oscilloscope reading.JPG
 Final version of the code can be found at the following file path: src/main.cpp
 
 **Improvements** 
-Some possible future improvements for this project could be to create a graphical user interface, GUI that returns the flicker threshold in a more user friendly and simpler form than the serial monitor command window. If a GUI is created the potentiometer could be removed and a  
+Some possible future improvements for this project could be to create a graphical user interface, GUI that returns the flicker threshold in a more user friendly and simpler form than the serial monitor command window. If a GUI is created the potentiometer could be removed and replaced with a flick control button 
 
 ## Conclusion
 
@@ -84,5 +84,6 @@ Electronic Tutorials. (2018, April 25). Input Interfacing Circuits Connect to th
 
 Vishay. (2019, January 1). High Efficiency LED. Retrieved from https://www.vishay.com/docs/83009/tlhg4900.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDMxMTc2NCwtMjAzNTU2NzYwM119
+eyJoaXN0b3J5IjpbLTEwOTg1MjQ5NjAsLTIwMzU1Njc2MDNdfQ
+==
 -->
