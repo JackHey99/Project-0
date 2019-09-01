@@ -1,4 +1,6 @@
 ![Cover sheet](https://user-images.githubusercontent.com/53545740/64072690-33cb8b80-cce7-11e9-81a9-684b2b33ebf4.JPG)
+Cover sheet
+File Path: Report_Photos/Cover sheet.JPG
 
 # Project 0
 Jack Heyward ID#2174132
@@ -106,5 +108,5 @@ Electronic Tutorials. (2018, April 25). Input Interfacing Circuits Connect to th
 
 Vishay. (2019, January 1). High Efficiency LED. Retrieved from https://www.vishay.com/docs/83009/tlhg4900.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzAzNDAzMCwxNjQ4MzA5NjM3XX0=
+eyJoaXN0b3J5IjpbLTIwOTI4OTM3MzldfQ==
 -->
